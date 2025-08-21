@@ -1,5 +1,4 @@
 # LSTM_FastAPI_project
-# LSTM FastAPI Project
 
 A machine learning project combining LSTM neural networks with FastAPI for 
 real-time predictions.
