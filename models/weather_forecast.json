@@ -1,0 +1,68 @@
+{
+  "model_accuracy": 0.4696969696969697,
+  "training_epochs": 23,
+  "sequence_length": 10,
+  "features_used": [
+    "MinTemp",
+    "MaxTemp",
+    "Rainfall",
+    "Evaporation",
+    "Sunshine",
+    "WindGustSpeed",
+    "WindSpeed9am",
+    "WindSpeed3pm",
+    "Humidity9am",
+    "Humidity3pm",
+    "Pressure9am",
+    "Pressure3pm",
+    "Cloud9am",
+    "Cloud3pm",
+    "Temp9am",
+    "Temp3pm"
+  ],
+  "forecast_date": "2017-06-25T00:00:00",
+  "predictions": [
+    {
+      "day": 1,
+      "probability": "0.2844124",
+      "prediction": "No Rain",
+      "confidence": 0.7155875861644745
+    },
+    {
+      "day": 2,
+      "probability": "0.29634717",
+      "prediction": "No Rain",
+      "confidence": 0.7036528289318085
+    },
+    {
+      "day": 3,
+      "probability": "0.30093068",
+      "prediction": "No Rain",
+      "confidence": 0.6990693211555481
+    },
+    {
+      "day": 4,
+      "probability": "0.3074851",
+      "prediction": "No Rain",
+      "confidence": 0.6925148963928223
+    },
+    {
+      "day": 5,
+      "probability": "0.33611724",
+      "prediction": "No Rain",
+      "confidence": 0.6638827621936798
+    },
+    {
+      "day": 6,
+      "probability": "0.34273902",
+      "prediction": "No Rain",
+      "confidence": 0.6572609841823578
+    },
+    {
+      "day": 7,
+      "probability": "0.33149013",
+      "prediction": "No Rain",
+      "confidence": 0.6685098707675934
+    }
+  ]
+}
